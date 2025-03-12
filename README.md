@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <img src="assets/banner.png" width="100%"/>  
+  <img src="https://github.com/user-attachments/assets/b6454b2d-3712-4b20-982e-6d051dd8115b" width="100%"/>  
 </p>
 
 # Welcome to My GitHub! 🐉  
