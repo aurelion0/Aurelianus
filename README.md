@@ -23,14 +23,9 @@ Hi, I'm **Aurelianus**, a passionate software developer with a strong background
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 <p align="center">  
-  <img src="https://github.com/aurelion0/Aurelianus/issues/1#issue-2914693234" width="500px"/>  
+  <img src="https://private-user-images.githubusercontent.com/133513450/422010291-b6454b2d-3712-4b20-982e-6d051dd8115b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MDEyMTUsIm5iZiI6MTc0MTgwMDkxNSwicGF0aCI6Ii8xMzM1MTM0NTAvNDIyMDEwMjkxLWI2NDU0YjJkLTM3MTItNGIyMC05ODJlLTZkMDUxZGQ4MTE1Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxMlQxNzM1MTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNWJjNTI3ZGFjNjdmNWFkZTllZjliYjI5MjlmYTk0NTMzN2Q3Yzg3NzMxM2ZiMDM2YTEyODIyNDU1MGQyZGJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DyfAkWIlsP2rXu1_jtxSGfrnnjsYWMgGow1fU3on-w4" width="500px"/>  
 </p>
 
-## 📊 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Elta00&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450px"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elta00&theme=tokyonight" alt="GitHub Streak Stats" width="450px"/>  
-</p>  
 
 ## 🌍 Connect with Me
 
