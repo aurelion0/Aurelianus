@@ -4,6 +4,13 @@
 ## About Me
 Hi, I'm **Aurelianus**, a passionate software developer with a strong background in various programming languages and technologies. I love exploring new ideas and building innovative solutions.
 
+## 🧐 About Me  
+- 🏗️ I’m currently working on **web & game development**  
+- 🌱 Learning **JavaScript**, **React**, and **Node.js**  
+- 💡 Interested in **AI, robotics, and game mechanics**  
+- 🎮 Passion for **fantasy, samurai culture, and dinosaurs**  
+- ✍️ Technical drawing and mechanical design skills  
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,9 +22,15 @@ Hi, I'm **Aurelianus**, a passionate software developer with a strong background
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-## 📊 GitHub Stats
+<p align="center">  
+  <img src="https://github.com/aurelion0/Aurelianus/issues/1#issue-2914693234" width="500px"/>  
+</p>
 
-![Aurelianus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurelianus00&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Elta00&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450px"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elta00&theme=tokyonight" alt="GitHub Streak Stats" width="450px"/>  
+</p>  
 
 ## 🌍 Connect with Me
 
